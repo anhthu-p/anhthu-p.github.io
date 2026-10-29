@@ -11,4 +11,4 @@ Applied across 800 breast cancer tissue microarray (TMA) cores and HTAN multiple
 
 [View the code on GitHub](https://github.com/anhthu-p/mIF-Tissue-LostFold-Detection)
 
-![Multiplex IF Tissue Loss & Fold Detection](/images/project1.jpeg){: width="1200" height="900"}
+![Flagged lost and fold tissue tiles on a breast cancer TMA core](/images/LSP12021-C10_dna8_flagged_tiles.png){: width="1200" height="900"}
